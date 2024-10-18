@@ -30,5 +30,5 @@ My goal is to approach the idea of supplier recommendations with a similar minds
 ### Datasets:
 Synthetic data (supplier data not publicly available from my research)
 
-### Limitations and Next Steps
+## Limitations and Next Steps
 While factorization machines proved to be a useful technique, it is not known for sure if it will as well on real-world data. The bigger issue is that it might be hard to collect data from several businesses related to suppliers and store it on a publicly available platform. Businesses themselves should have the incentive to store and share supplier data in order to improve their own prospects.
